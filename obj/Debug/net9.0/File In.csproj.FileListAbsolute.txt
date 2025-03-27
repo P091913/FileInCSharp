@@ -1,0 +1,14 @@
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/bin/Debug/net9.0/File In
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/bin/Debug/net9.0/File In.deps.json
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/bin/Debug/net9.0/File In.runtimeconfig.json
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/bin/Debug/net9.0/File In.dll
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/bin/Debug/net9.0/File In.pdb
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/File In.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/File In.AssemblyInfoInputs.cache
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/File In.AssemblyInfo.cs
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/File In.csproj.CoreCompileInputs.cache
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/File In.dll
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/refint/File In.dll
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/File In.pdb
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/File In.genruntimeconfig.cache
+/Users/jarrettplate/Desktop/C#/Unit 2 Arrays/Day 1 Flat file/File In/obj/Debug/net9.0/ref/File In.dll
